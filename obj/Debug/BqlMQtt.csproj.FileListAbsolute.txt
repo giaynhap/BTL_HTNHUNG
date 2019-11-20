@@ -5,3 +5,10 @@ c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\bin\Debug
 c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\obj\Debug\BqlMQtt.exe
 c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\obj\Debug\BqlMQtt.pdb
 c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\obj\Debug\BqlMQtt.csprojResolveAssemblyReference.cache
+D:\C#Project\BTL_HTNHUNG\bin\Debug\BqlMQtt.exe.config
+D:\C#Project\BTL_HTNHUNG\bin\Debug\BqlMQtt.exe
+D:\C#Project\BTL_HTNHUNG\bin\Debug\BqlMQtt.pdb
+D:\C#Project\BTL_HTNHUNG\obj\Debug\BqlMQtt.csprojAssemblyReference.cache
+D:\C#Project\BTL_HTNHUNG\obj\Debug\BqlMQtt.csproj.CopyComplete
+D:\C#Project\BTL_HTNHUNG\obj\Debug\BqlMQtt.exe
+D:\C#Project\BTL_HTNHUNG\obj\Debug\BqlMQtt.pdb

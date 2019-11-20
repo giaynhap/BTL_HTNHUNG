@@ -22,7 +22,7 @@ namespace BqlMQtt
 
         public void start()
         {
-            Console.WriteLine("MTTCServer Started at port "+port);
+            Console.WriteLine("MTTCServer started at port "+port);
             IPAddress address = IPAddress.Parse("0.0.0.0");
             listener = new TcpListener(address, port);
             listener.Start();

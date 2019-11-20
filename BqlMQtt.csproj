@@ -47,6 +47,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\DBSQLServerUtils.cs" />
+    <Compile Include="DeviceControl.cs" />
+    <Compile Include="Dht11Control.cs" />
     <Compile Include="MTTCSocket.cs" />
     <Compile Include="MTTCServer.cs" />
     <Compile Include="Program.cs" />

@@ -1,0 +1,7 @@
+c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\bin\Debug\BqlMQtt.exe.config
+c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\bin\Debug\BqlMQtt.exe
+c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\bin\Debug\BqlMQtt.pdb
+c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\bin\Debug\MQTTnet.dll
+c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\obj\Debug\BqlMQtt.exe
+c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\obj\Debug\BqlMQtt.pdb
+c:\users\macbook\documents\visual studio 2015\Projects\BqlMQtt\BqlMQtt\obj\Debug\BqlMQtt.csprojResolveAssemblyReference.cache
